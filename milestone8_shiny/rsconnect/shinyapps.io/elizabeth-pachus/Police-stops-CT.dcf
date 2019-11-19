@@ -1,0 +1,12 @@
+name: Police-stops-CT
+title: Police-stops-CT
+username:
+account: elizabeth-pachus
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1441851
+bundleId: 2573062
+url: https://elizabeth-pachus.shinyapps.io/Police-stops-CT/
+when: 1573179164.79105
+asMultiple: FALSE
+asStatic: FALSE

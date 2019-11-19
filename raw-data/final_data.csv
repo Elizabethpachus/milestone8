@@ -1,0 +1,501 @@
+state_name,cause,intent,pop,state,total_deaths,crude_rate,age_adjusted_rate,year,rate_per_1000,deaths_year
+Alabama,All Intents Firearm,All Intents,79976290,1,"14,084",17.61,17.42,2017,22.9,1124
+Alabama,Violence-related Firearm,Violence-related,79976290,1,"13,420",16.78,16.59,2017,22.9,1124
+Alaska,All Intents Firearm,All Intents,11848797,2,"2,277",19.22,19.16,2017,24.5,180
+Alaska,Violence-related Firearm,Violence-related,11848797,2,"2,156",18.2,18.16,2017,24.5,180
+Arizona,All Intents Firearm,All Intents,105943656,4,"16,093",15.19,15.05,2017,15.8,1134
+Arizona,Violence-related Firearm,Violence-related,105943656,4,"15,670",14.79,14.65,2017,15.8,1134
+Arkansas,All Intents Firearm,All Intents,48788500,5,"7,914",16.22,16.14,2017,20.3,613
+Arkansas,Violence-related Firearm,Violence-related,48788500,5,"7,546",15.47,15.38,2017,20.3,613
+California,All Intents Firearm,All Intents,629704470,6,"54,181",8.6,8.45,2017,7.9,3184
+California,Violence-related Firearm,Violence-related,629704470,6,"53,102",8.43,8.28,2017,7.9,3184
+Colorado,All Intents Firearm,All Intents,84552579,8,"10,088",11.93,11.73,2017,13.4,779
+Colorado,Violence-related Firearm,Violence-related,84552579,8,"9,861",11.66,11.46,2017,13.4,779
+Connecticut,All Intents Firearm,All Intents,60267221,9,"3,089",5.13,5.09,2017,5.1,188
+Connecticut,Violence-related Firearm,Violence-related,60267221,9,"3,032",5.03,4.99,2017,5.1,188
+Delaware,All Intents Firearm,All Intents,15043796,10,"1,491",9.91,9.8,2017,11.7,111
+Delaware,Violence-related Firearm,Violence-related,15043796,10,"1,466",9.74,9.63,2017,11.7,111
+Florida,All Intents Firearm,All Intents,317658078,12,"38,341",12.07,11.56,2017,12.4,2724
+Florida,Violence-related Firearm,Violence-related,317658078,12,"37,771",11.89,11.38,2017,12.4,2724
+Georgia,All Intents Firearm,All Intents,161253362,13,"21,404",13.27,13.22,2017,15.4,1623
+Georgia,Violence-related Firearm,Violence-related,161253362,13,"20,842",12.93,12.88,2017,15.4,1623
+Hawaii,All Intents Firearm,All Intents,22827034,15,729,3.19,3.05,2017,2.5,39
+Hawaii,Violence-related Firearm,Violence-related,22827034,15,706,3.09,2.96,2017,2.5,39
+Idaho,All Intents Firearm,All Intents,25938664,16,"3,418",13.18,13.37,2017,16.4,280
+Idaho,Violence-related Firearm,Violence-related,25938664,16,"3,298",12.71,12.9,2017,16.4,280
+Illinois,All Intents Firearm,All Intents,216498318,17,"19,815",9.15,9.04,2017,12.1,1543
+Illinois,Violence-related Firearm,Violence-related,216498318,17,"19,350",8.94,8.82,2017,12.1,1543
+Indiana,All Intents Firearm,All Intents,109195622,18,"13,043",11.94,11.87,2017,15.3,1016
+Indiana,Violence-related Firearm,Violence-related,109195622,18,"12,631",11.57,11.5,2017,15.3,1016
+Iowa,All Intents Firearm,All Intents,51533216,19,"3,735",7.25,7.09,2017,9,293
+Iowa,Violence-related Firearm,Violence-related,51533216,19,"3,635",7.05,6.9,2017,9,293
+Kansas,All Intents Firearm,All Intents,47932167,20,"5,406",11.28,11.21,2017,16,466
+Kansas,Violence-related Firearm,Violence-related,47932167,20,"5,258",10.97,10.91,2017,16,466
+Kentucky,All Intents Firearm,All Intents,72900296,21,"10,285",14.11,13.86,2017,16.2,730
+Kentucky,Violence-related Firearm,Violence-related,72900296,21,"9,824",13.48,13.23,2017,16.2,730
+Louisiana,All Intents Firearm,All Intents,77258370,22,"14,899",19.28,19.15,2017,21.7,1008
+Louisiana,Violence-related Firearm,Violence-related,77258370,22,"14,252",18.45,18.32,2017,21.7,1008
+Maine,All Intents Firearm,All Intents,22466633,23,"2,050",9.12,8.42,2017,11.7,172
+Maine,Violence-related Firearm,Violence-related,22466633,23,"2,020",8.99,8.3,2017,11.7,172
+Maryland,All Intents Firearm,All Intents,97635782,24,"10,740",11,10.99,2017,12.3,742
+Maryland,Violence-related Firearm,Violence-related,97635782,24,"10,631",10.89,10.88,2017,12.3,742
+Massachusetts,All Intents Firearm,All Intents,111647417,25,"3,822",3.42,3.31,2017,3.7,262
+Massachusetts,Violence-related Firearm,Violence-related,111647417,25,"3,765",3.37,3.26,2017,3.7,262
+Michigan,All Intents Firearm,All Intents,169315037,26,"19,020",11.23,11.24,2017,11.3,1138
+Michigan,Violence-related Firearm,Violence-related,169315037,26,"18,708",11.05,11.06,2017,11.3,1138
+Minnesota,All Intents Firearm,All Intents,89642796,27,"6,320",7.05,6.94,2017,8.2,465
+Minnesota,Violence-related Firearm,Violence-related,89642796,27,"6,172",6.89,6.78,2017,8.2,465
+Mississippi,All Intents Firearm,All Intents,49974477,28,"8,882",17.77,17.89,2017,21.5,632
+Mississippi,Violence-related Firearm,Violence-related,49974477,28,"8,412",16.83,16.96,2017,21.5,632
+Missouri,All Intents Firearm,All Intents,100577707,29,"14,629",14.54,14.43,2017,21.5,1307
+Missouri,Violence-related Firearm,Violence-related,100577707,29,"14,187",14.11,13.99,2017,21.5,1307
+Montana,All Intents Firearm,All Intents,16625284,30,"2,794",16.81,16.35,2017,22.5,244
+Montana,Violence-related Firearm,Violence-related,16625284,30,"2,698",16.23,15.77,2017,22.5,244
+Nebraska,All Intents Firearm,All Intents,30855239,31,"2,560",8.3,8.26,2017,8.3,160
+Nebraska,Violence-related Firearm,Violence-related,30855239,31,"2,462",7.98,7.94,2017,8.3,160
+Nevada,All Intents Firearm,All Intents,44371328,32,"6,907",15.57,15.44,2017,16.7,508
+Nevada,Violence-related Firearm,Violence-related,44371328,32,"6,774",15.27,15.14,2017,16.7,508
+New Hampshire,All Intents Firearm,All Intents,22260974,33,"1,696",7.62,7.22,2017,10.4,146
+New Hampshire,Violence-related Firearm,Violence-related,22260974,33,"1,657",7.44,7.05,2017,10.4,146
+New Jersey,All Intents Firearm,All Intents,149059055,34,"7,703",5.17,5.22,2017,5.3,478
+New Jersey,Violence-related Firearm,Violence-related,149059055,34,"7,561",5.07,5.12,2017,5.3,478
+New Mexico,All Intents Firearm,All Intents,34045001,35,"5,394",15.84,15.83,2017,18.5,394
+New Mexico,Violence-related Firearm,Violence-related,34045001,35,"5,238",15.39,15.37,2017,18.5,394
+New York,All Intents Firearm,All Intents,329978239,36,"16,218",4.91,4.78,2017,3.7,772
+New York,Violence-related Firearm,Violence-related,329978239,36,"15,944",4.83,4.7,2017,3.7,772
+North Carolina,All Intents Firearm,All Intents,158228514,37,"19,988",12.63,12.41,2017,13.7,1430
+North Carolina,Violence-related Firearm,Violence-related,158228514,37,"19,363",12.24,12.02,2017,13.7,1430
+North Dakota,All Intents Firearm,All Intents,11617783,38,"1,161",9.99,9.75,2017,13.2,103
+North Dakota,Violence-related Firearm,Violence-related,11617783,38,"1,114",9.59,9.34,2017,13.2,103
+Ohio,All Intents Firearm,All Intents,195847427,39,"20,157",10.29,10.2,2017,13.7,1589
+Ohio,Violence-related Firearm,Violence-related,195847427,39,"19,689",10.05,9.96,2017,13.7,1589
+Oklahoma,All Intents Firearm,All Intents,62983289,40,"9,506",15.09,15.02,2017,17.2,681
+Oklahoma,Violence-related Firearm,Violence-related,62983289,40,"9,217",14.63,14.56,2017,17.2,681
+Oregon,All Intents Firearm,All Intents,64398526,41,"7,294",11.33,10.81,2017,12.1,528
+Oregon,Violence-related Firearm,Violence-related,64398526,41,"7,129",11.07,10.55,2017,12.1,528
+Pennsylvania,All Intents Firearm,All Intents,214385499,42,"23,349",10.89,10.71,2017,12.5,1636
+Pennsylvania,Violence-related Firearm,Violence-related,214385499,42,"22,786",10.63,10.45,2017,12.5,1636
+Rhode Island,All Intents Firearm,All Intents,18004581,44,757,4.2,4.04,2017,3.9,43
+Rhode Island,Violence-related Firearm,Violence-related,18004581,44,741,4.12,3.96,2017,3.9,43
+South Carolina,All Intents Firearm,All Intents,77209351,45,"11,585",15,14.75,2017,17.7,893
+South Carolina,Violence-related Firearm,Violence-related,77209351,45,"11,195",14.5,14.25,2017,17.7,893
+South Dakota,All Intents Firearm,All Intents,13755780,46,"1,341",9.75,9.74,2017,11.9,101
+South Dakota,Violence-related Firearm,Violence-related,13755780,46,"1,273",9.25,9.23,2017,11.9,101
+Tennessee,All Intents Firearm,All Intents,106294432,47,"16,640",15.65,15.36,2017,18.4,1246
+Tennessee,Violence-related Firearm,Violence-related,106294432,47,"15,858",14.92,14.64,2017,18.4,1246
+Texas,All Intents Firearm,All Intents,420482291,48,"45,938",10.93,11.05,2017,12.4,3513
+Texas,Violence-related Firearm,Violence-related,420482291,48,"44,694",10.63,10.76,2017,12.4,3513
+Utah,All Intents Firearm,All Intents,45740913,49,"4,862",10.63,11.49,2017,14,410
+Utah,Violence-related Firearm,Violence-related,45740913,49,"4,764",10.42,11.27,2017,14,410
+Vermont,All Intents Firearm,All Intents,10582731,50,"1,042",9.85,9.27,2017,11.7,70
+Vermont,Violence-related Firearm,Violence-related,10582731,50,"1,020",9.64,9.06,2017,11.7,70
+Virginia,All Intents Firearm,All Intents,134216055,51,"14,759",11,10.73,2017,11.9,1041
+Virginia,Violence-related Firearm,Violence-related,134216055,51,"14,433",10.75,10.49,2017,11.9,1041
+Washington,All Intents Firearm,All Intents,112924568,53,"10,584",9.37,9.13,2017,11.1,849
+Washington,Violence-related Firearm,Violence-related,112924568,53,"10,384",9.2,8.96,2017,11.1,849
+West Virginia,All Intents Firearm,All Intents,31153644,54,"4,664",14.97,14.41,2017,18.6,348
+West Virginia,Violence-related Firearm,Violence-related,31153644,54,"4,472",14.35,13.8,2017,18.6,348
+Wisconsin,All Intents Firearm,All Intents,95820346,55,"8,475",8.84,8.69,2017,10.6,624
+Wisconsin,Violence-related Firearm,Violence-related,95820346,55,"8,313",8.68,8.52,2017,10.6,624
+Wyoming,All Intents Firearm,All Intents,9308806,56,"1,553",16.68,16.52,2017,18.8,113
+Wyoming,Violence-related Firearm,Violence-related,9308806,56,"1,494",16.05,15.9,2017,18.8,113
+Alabama,All Intents Firearm,All Intents,79976290,1,"14,084",17.61,17.42,2016,21.5,1046
+Alabama,Violence-related Firearm,Violence-related,79976290,1,"13,420",16.78,16.59,2016,21.5,1046
+Alaska,All Intents Firearm,All Intents,11848797,2,"2,277",19.22,19.16,2016,23.3,177
+Alaska,Violence-related Firearm,Violence-related,11848797,2,"2,156",18.2,18.16,2016,23.3,177
+Arizona,All Intents Firearm,All Intents,105943656,4,"16,093",15.19,15.05,2016,15.2,1094
+Arizona,Violence-related Firearm,Violence-related,105943656,4,"15,670",14.79,14.65,2016,15.2,1094
+Arkansas,All Intents Firearm,All Intents,48788500,5,"7,914",16.22,16.14,2016,17.8,541
+Arkansas,Violence-related Firearm,Violence-related,48788500,5,"7,546",15.47,15.38,2016,17.8,541
+California,All Intents Firearm,All Intents,629704470,6,"54,181",8.6,8.45,2016,7.9,3184
+California,Violence-related Firearm,Violence-related,629704470,6,"53,102",8.43,8.28,2016,7.9,3184
+Colorado,All Intents Firearm,All Intents,84552579,8,"10,088",11.93,11.73,2016,14.3,812
+Colorado,Violence-related Firearm,Violence-related,84552579,8,"9,861",11.66,11.46,2016,14.3,812
+Connecticut,All Intents Firearm,All Intents,60267221,9,"3,089",5.13,5.09,2016,4.6,172
+Connecticut,Violence-related Firearm,Violence-related,60267221,9,"3,032",5.03,4.99,2016,4.6,172
+Delaware,All Intents Firearm,All Intents,15043796,10,"1,491",9.91,9.8,2016,11,111
+Delaware,Violence-related Firearm,Violence-related,15043796,10,"1,466",9.74,9.63,2016,11,111
+Florida,All Intents Firearm,All Intents,317658078,12,"38,341",12.07,11.56,2016,12.6,2704
+Florida,Violence-related Firearm,Violence-related,317658078,12,"37,771",11.89,11.38,2016,12.6,2704
+Georgia,All Intents Firearm,All Intents,161253362,13,"21,404",13.27,13.22,2016,15,1571
+Georgia,Violence-related Firearm,Violence-related,161253362,13,"20,842",12.93,12.88,2016,15,1571
+Hawaii,All Intents Firearm,All Intents,22827034,15,729,3.19,3.05,2016,4.5,66
+Hawaii,Violence-related Firearm,Violence-related,22827034,15,706,3.09,2.96,2016,4.5,66
+Idaho,All Intents Firearm,All Intents,25938664,16,"3,418",13.18,13.37,2016,14.6,242
+Idaho,Violence-related Firearm,Violence-related,25938664,16,"3,298",12.71,12.9,2016,14.6,242
+Illinois,All Intents Firearm,All Intents,216498318,17,"19,815",9.15,9.04,2016,11.7,1490
+Illinois,Violence-related Firearm,Violence-related,216498318,17,"19,350",8.94,8.82,2016,11.7,1490
+Indiana,All Intents Firearm,All Intents,109195622,18,"13,043",11.94,11.87,2016,15,997
+Indiana,Violence-related Firearm,Violence-related,109195622,18,"12,631",11.57,11.5,2016,15,997
+Iowa,All Intents Firearm,All Intents,51533216,19,"3,735",7.25,7.09,2016,9.2,288
+Iowa,Violence-related Firearm,Violence-related,51533216,19,"3,635",7.05,6.9,2016,9.2,288
+Kansas,All Intents Firearm,All Intents,47932167,20,"5,406",11.28,11.21,2016,13.4,383
+Kansas,Violence-related Firearm,Violence-related,47932167,20,"5,258",10.97,10.91,2016,13.4,383
+Kentucky,All Intents Firearm,All Intents,72900296,21,"10,285",14.11,13.86,2016,17.5,772
+Kentucky,Violence-related Firearm,Violence-related,72900296,21,"9,824",13.48,13.23,2016,17.5,772
+Louisiana,All Intents Firearm,All Intents,77258370,22,"14,899",19.28,19.15,2016,21.3,987
+Louisiana,Violence-related Firearm,Violence-related,77258370,22,"14,252",18.45,18.32,2016,21.3,987
+Maine,All Intents Firearm,All Intents,22466633,23,"2,050",9.12,8.42,2016,8.3,123
+Maine,Violence-related Firearm,Violence-related,22466633,23,"2,020",8.99,8.3,2016,8.3,123
+Maryland,All Intents Firearm,All Intents,97635782,24,"10,740",11,10.99,2016,11.9,707
+Maryland,Violence-related Firearm,Violence-related,97635782,24,"10,631",10.89,10.88,2016,11.9,707
+Massachusetts,All Intents Firearm,All Intents,111647417,25,"3,822",3.42,3.31,2016,3.4,242
+Massachusetts,Violence-related Firearm,Violence-related,111647417,25,"3,765",3.37,3.26,2016,3.4,242
+Michigan,All Intents Firearm,All Intents,169315037,26,"19,020",11.23,11.24,2016,12.3,1230
+Michigan,Violence-related Firearm,Violence-related,169315037,26,"18,708",11.05,11.06,2016,12.3,1230
+Minnesota,All Intents Firearm,All Intents,89642796,27,"6,320",7.05,6.94,2016,7.6,432
+Minnesota,Violence-related Firearm,Violence-related,89642796,27,"6,172",6.89,6.78,2016,7.6,432
+Mississippi,All Intents Firearm,All Intents,49974477,28,"8,882",17.77,17.89,2016,19.9,587
+Mississippi,Violence-related Firearm,Violence-related,49974477,28,"8,412",16.83,16.96,2016,19.9,587
+Missouri,All Intents Firearm,All Intents,100577707,29,"14,629",14.54,14.43,2016,19,1144
+Missouri,Violence-related Firearm,Violence-related,100577707,29,"14,187",14.11,13.99,2016,19,1144
+Montana,All Intents Firearm,All Intents,16625284,30,"2,794",16.81,16.35,2016,18.9,194
+Montana,Violence-related Firearm,Violence-related,16625284,30,"2,698",16.23,15.77,2016,18.9,194
+Nebraska,All Intents Firearm,All Intents,30855239,31,"2,560",8.3,8.26,2016,9.1,171
+Nebraska,Violence-related Firearm,Violence-related,30855239,31,"2,462",7.98,7.94,2016,9.1,171
+Nevada,All Intents Firearm,All Intents,44371328,32,"6,907",15.57,15.44,2016,16.8,498
+Nevada,Violence-related Firearm,Violence-related,44371328,32,"6,774",15.27,15.14,2016,16.8,498
+New Hampshire,All Intents Firearm,All Intents,22260974,33,"1,696",7.62,7.22,2016,9.3,132
+New Hampshire,Violence-related Firearm,Violence-related,22260974,33,"1,657",7.44,7.05,2016,9.3,132
+New Jersey,All Intents Firearm,All Intents,149059055,34,"7,703",5.17,5.22,2016,5.5,485
+New Jersey,Violence-related Firearm,Violence-related,149059055,34,"7,561",5.07,5.12,2016,5.5,485
+New Mexico,All Intents Firearm,All Intents,34045001,35,"5,394",15.84,15.83,2016,18.1,383
+New Mexico,Violence-related Firearm,Violence-related,34045001,35,"5,238",15.39,15.37,2016,18.1,383
+New York,All Intents Firearm,All Intents,329978239,36,"16,218",4.91,4.78,2016,4.4,900
+New York,Violence-related Firearm,Violence-related,329978239,36,"15,944",4.83,4.7,2016,4.4,900
+North Carolina,All Intents Firearm,All Intents,158228514,37,"19,988",12.63,12.41,2016,13.7,1409
+North Carolina,Violence-related Firearm,Violence-related,158228514,37,"19,363",12.24,12.02,2016,13.7,1409
+North Dakota,All Intents Firearm,All Intents,11617783,38,"1,161",9.99,9.75,2016,11.9,90
+North Dakota,Violence-related Firearm,Violence-related,11617783,38,"1,114",9.59,9.34,2016,11.9,90
+Ohio,All Intents Firearm,All Intents,195847427,39,"20,157",10.29,10.2,2016,12.9,1524
+Ohio,Violence-related Firearm,Violence-related,195847427,39,"19,689",10.05,9.96,2016,12.9,1524
+Oklahoma,All Intents Firearm,All Intents,62983289,40,"9,506",15.09,15.02,2016,19.6,766
+Oklahoma,Violence-related Firearm,Violence-related,62983289,40,"9,217",14.63,14.56,2016,19.6,766
+Oregon,All Intents Firearm,All Intents,64398526,41,"7,294",11.33,10.81,2016,11.9,513
+Oregon,Violence-related Firearm,Violence-related,64398526,41,"7,129",11.07,10.55,2016,11.9,513
+Pennsylvania,All Intents Firearm,All Intents,214385499,42,"23,349",10.89,10.71,2016,12,1555
+Pennsylvania,Violence-related Firearm,Violence-related,214385499,42,"22,786",10.63,10.45,2016,12,1555
+Rhode Island,All Intents Firearm,All Intents,18004581,44,757,4.2,4.04,2016,4.1,49
+Rhode Island,Violence-related Firearm,Violence-related,18004581,44,741,4.12,3.96,2016,4.1,49
+South Carolina,All Intents Firearm,All Intents,77209351,45,"11,585",15,14.75,2016,17.7,891
+South Carolina,Violence-related Firearm,Violence-related,77209351,45,"11,195",14.5,14.25,2016,17.7,891
+South Dakota,All Intents Firearm,All Intents,13755780,46,"1,341",9.75,9.74,2016,13.4,108
+South Dakota,Violence-related Firearm,Violence-related,13755780,46,"1,273",9.25,9.23,2016,13.4,108
+Tennessee,All Intents Firearm,All Intents,106294432,47,"16,640",15.65,15.36,2016,17.1,1148
+Tennessee,Violence-related Firearm,Violence-related,106294432,47,"15,858",14.92,14.64,2016,17.1,1148
+Texas,All Intents Firearm,All Intents,420482291,48,"45,938",10.93,11.05,2016,12.1,3353
+Texas,Violence-related Firearm,Violence-related,420482291,48,"44,694",10.63,10.76,2016,12.1,3353
+Utah,All Intents Firearm,All Intents,45740913,49,"4,862",10.63,11.49,2016,12.9,370
+Utah,Violence-related Firearm,Violence-related,45740913,49,"4,764",10.42,11.27,2016,12.9,370
+Vermont,All Intents Firearm,All Intents,10582731,50,"1,042",9.85,9.27,2016,11.1,78
+Vermont,Violence-related Firearm,Violence-related,10582731,50,"1,020",9.64,9.06,2016,11.1,78
+Virginia,All Intents Firearm,All Intents,134216055,51,"14,759",11,10.73,2016,12.1,1049
+Virginia,Violence-related Firearm,Violence-related,134216055,51,"14,433",10.75,10.49,2016,12.1,1049
+Washington,All Intents Firearm,All Intents,112924568,53,"10,584",9.37,9.13,2016,9,686
+Washington,Violence-related Firearm,Violence-related,112924568,53,"10,384",9.2,8.96,2016,9,686
+West Virginia,All Intents Firearm,All Intents,31153644,54,"4,664",14.97,14.41,2016,17.5,332
+West Virginia,Violence-related Firearm,Violence-related,31153644,54,"4,472",14.35,13.8,2016,17.5,332
+Wisconsin,All Intents Firearm,All Intents,95820346,55,"8,475",8.84,8.69,2016,11.4,664
+Wisconsin,Violence-related Firearm,Violence-related,95820346,55,"8,313",8.68,8.52,2016,11.4,664
+Wyoming,All Intents Firearm,All Intents,9308806,56,"1,553",16.68,16.52,2016,17.4,101
+Wyoming,Violence-related Firearm,Violence-related,9308806,56,"1,494",16.05,15.9,2016,17.4,101
+Alabama,All Intents Firearm,All Intents,79976290,1,"14,084",17.61,17.42,2015,19.6,958
+Alabama,Violence-related Firearm,Violence-related,79976290,1,"13,420",16.78,16.59,2015,19.6,958
+Alaska,All Intents Firearm,All Intents,11848797,2,"2,277",19.22,19.16,2015,23.4,177
+Alaska,Violence-related Firearm,Violence-related,11848797,2,"2,156",18.2,18.16,2015,23.4,177
+Arizona,All Intents Firearm,All Intents,105943656,4,"16,093",15.19,15.05,2015,13.8,970
+Arizona,Violence-related Firearm,Violence-related,105943656,4,"15,670",14.79,14.65,2015,13.8,970
+Arkansas,All Intents Firearm,All Intents,48788500,5,"7,914",16.22,16.14,2015,16.9,520
+Arkansas,Violence-related Firearm,Violence-related,48788500,5,"7,546",15.47,15.38,2015,16.9,520
+California,All Intents Firearm,All Intents,629704470,6,"54,181",8.6,8.45,2015,7.7,3095
+California,Violence-related Firearm,Violence-related,629704470,6,"53,102",8.43,8.28,2015,7.7,3095
+Colorado,All Intents Firearm,All Intents,84552579,8,"10,088",11.93,11.73,2015,12.6,701
+Colorado,Violence-related Firearm,Violence-related,84552579,8,"9,861",11.66,11.46,2015,12.6,701
+Connecticut,All Intents Firearm,All Intents,60267221,9,"3,089",5.13,5.09,2015,5.3,189
+Connecticut,Violence-related Firearm,Violence-related,60267221,9,"3,032",5.03,4.99,2015,5.3,189
+Delaware,All Intents Firearm,All Intents,15043796,10,"1,491",9.91,9.8,2015,12.1,112
+Delaware,Violence-related Firearm,Violence-related,15043796,10,"1,466",9.74,9.63,2015,12.1,112
+Florida,All Intents Firearm,All Intents,317658078,12,"38,341",12.07,11.56,2015,12,2559
+Florida,Violence-related Firearm,Violence-related,317658078,12,"37,771",11.89,11.38,2015,12,2559
+Georgia,All Intents Firearm,All Intents,161253362,13,"21,404",13.27,13.22,2015,14.1,1448
+Georgia,Violence-related Firearm,Violence-related,161253362,13,"20,842",12.93,12.88,2015,14.1,1448
+Hawaii,All Intents Firearm,All Intents,22827034,15,729,3.19,3.05,2015,3.6,55
+Hawaii,Violence-related Firearm,Violence-related,22827034,15,706,3.09,2.96,2015,3.6,55
+Idaho,All Intents Firearm,All Intents,25938664,16,"3,418",13.18,13.37,2015,14.7,247
+Idaho,Violence-related Firearm,Violence-related,25938664,16,"3,298",12.71,12.9,2015,14.7,247
+Illinois,All Intents Firearm,All Intents,216498318,17,"19,815",9.15,9.04,2015,9.5,1220
+Illinois,Violence-related Firearm,Violence-related,216498318,17,"19,350",8.94,8.82,2015,9.5,1220
+Indiana,All Intents Firearm,All Intents,109195622,18,"13,043",11.94,11.87,2015,12.7,846
+Indiana,Violence-related Firearm,Violence-related,109195622,18,"12,631",11.57,11.5,2015,12.7,846
+Iowa,All Intents Firearm,All Intents,51533216,19,"3,735",7.25,7.09,2015,7.8,247
+Iowa,Violence-related Firearm,Violence-related,51533216,19,"3,635",7.05,6.9,2015,7.8,247
+Kansas,All Intents Firearm,All Intents,47932167,20,"5,406",11.28,11.21,2015,11.4,330
+Kansas,Violence-related Firearm,Violence-related,47932167,20,"5,258",10.97,10.91,2015,11.4,330
+Kentucky,All Intents Firearm,All Intents,72900296,21,"10,285",14.11,13.86,2015,15.2,694
+Kentucky,Violence-related Firearm,Violence-related,72900296,21,"9,824",13.48,13.23,2015,15.2,694
+Louisiana,All Intents Firearm,All Intents,77258370,22,"14,899",19.28,19.15,2015,20.4,952
+Louisiana,Violence-related Firearm,Violence-related,77258370,22,"14,252",18.45,18.32,2015,20.4,952
+Maine,All Intents Firearm,All Intents,22466633,23,"2,050",9.12,8.42,2015,9.8,144
+Maine,Violence-related Firearm,Violence-related,22466633,23,"2,020",8.99,8.3,2015,9.8,144
+Maryland,All Intents Firearm,All Intents,97635782,24,"10,740",11,10.99,2015,11.9,708
+Maryland,Violence-related Firearm,Violence-related,97635782,24,"10,631",10.89,10.88,2015,11.9,708
+Massachusetts,All Intents Firearm,All Intents,111647417,25,"3,822",3.42,3.31,2015,3,213
+Massachusetts,Violence-related Firearm,Violence-related,111647417,25,"3,765",3.37,3.26,2015,3,213
+Michigan,All Intents Firearm,All Intents,169315037,26,"19,020",11.23,11.24,2015,11.7,1164
+Michigan,Violence-related Firearm,Violence-related,169315037,26,"18,708",11.05,11.06,2015,11.7,1164
+Minnesota,All Intents Firearm,All Intents,89642796,27,"6,320",7.05,6.94,2015,7.4,410
+Minnesota,Violence-related Firearm,Violence-related,89642796,27,"6,172",6.89,6.78,2015,7.4,410
+Mississippi,All Intents Firearm,All Intents,49974477,28,"8,882",17.77,17.89,2015,19.6,589
+Mississippi,Violence-related Firearm,Violence-related,49974477,28,"8,412",16.83,16.96,2015,19.6,589
+Missouri,All Intents Firearm,All Intents,100577707,29,"14,629",14.54,14.43,2015,18.1,1094
+Missouri,Violence-related Firearm,Violence-related,100577707,29,"14,187",14.11,13.99,2015,18.1,1094
+Montana,All Intents Firearm,All Intents,16625284,30,"2,794",16.81,16.35,2015,19.2,205
+Montana,Violence-related Firearm,Violence-related,16625284,30,"2,698",16.23,15.77,2015,19.2,205
+Nebraska,All Intents Firearm,All Intents,30855239,31,"2,560",8.3,8.26,2015,8.9,169
+Nebraska,Violence-related Firearm,Violence-related,30855239,31,"2,462",7.98,7.94,2015,8.9,169
+Nevada,All Intents Firearm,All Intents,44371328,32,"6,907",15.57,15.44,2015,14.9,446
+Nevada,Violence-related Firearm,Violence-related,44371328,32,"6,774",15.27,15.14,2015,14.9,446
+New Hampshire,All Intents Firearm,All Intents,22260974,33,"1,696",7.62,7.22,2015,8.9,121
+New Hampshire,Violence-related Firearm,Violence-related,22260974,33,"1,657",7.44,7.05,2015,8.9,121
+New Jersey,All Intents Firearm,All Intents,149059055,34,"7,703",5.17,5.22,2015,5.4,475
+New Jersey,Violence-related Firearm,Violence-related,149059055,34,"7,561",5.07,5.12,2015,5.4,475
+New Mexico,All Intents Firearm,All Intents,34045001,35,"5,394",15.84,15.83,2015,18.6,390
+New Mexico,Violence-related Firearm,Violence-related,34045001,35,"5,238",15.39,15.37,2015,18.6,390
+New York,All Intents Firearm,All Intents,329978239,36,"16,218",4.91,4.78,2015,4.2,849
+New York,Violence-related Firearm,Violence-related,329978239,36,"15,944",4.83,4.7,2015,4.2,849
+North Carolina,All Intents Firearm,All Intents,158228514,37,"19,988",12.63,12.41,2015,12.5,1289
+North Carolina,Violence-related Firearm,Violence-related,158228514,37,"19,363",12.24,12.02,2015,12.5,1289
+North Dakota,All Intents Firearm,All Intents,11617783,38,"1,161",9.99,9.75,2015,12.8,92
+North Dakota,Violence-related Firearm,Violence-related,11617783,38,"1,114",9.59,9.34,2015,12.8,92
+Ohio,All Intents Firearm,All Intents,195847427,39,"20,157",10.29,10.2,2015,11.9,1397
+Ohio,Violence-related Firearm,Violence-related,195847427,39,"19,689",10.05,9.96,2015,11.9,1397
+Oklahoma,All Intents Firearm,All Intents,62983289,40,"9,506",15.09,15.02,2015,18,706
+Oklahoma,Violence-related Firearm,Violence-related,62983289,40,"9,217",14.63,14.56,2015,18,706
+Oregon,All Intents Firearm,All Intents,64398526,41,"7,294",11.33,10.81,2015,11.4,486
+Oregon,Violence-related Firearm,Violence-related,64398526,41,"7,129",11.07,10.55,2015,11.4,486
+Pennsylvania,All Intents Firearm,All Intents,214385499,42,"23,349",10.89,10.71,2015,11.4,1485
+Pennsylvania,Violence-related Firearm,Violence-related,214385499,42,"22,786",10.63,10.45,2015,11.4,1485
+Rhode Island,All Intents Firearm,All Intents,18004581,44,757,4.2,4.04,2015,4.7,51
+Rhode Island,Violence-related Firearm,Violence-related,18004581,44,741,4.12,3.96,2015,4.7,51
+South Carolina,All Intents Firearm,All Intents,77209351,45,"11,585",15,14.75,2015,17.3,850
+South Carolina,Violence-related Firearm,Violence-related,77209351,45,"11,195",14.5,14.25,2015,17.3,850
+South Dakota,All Intents Firearm,All Intents,13755780,46,"1,341",9.75,9.74,2015,11.1,96
+South Dakota,Violence-related Firearm,Violence-related,13755780,46,"1,273",9.25,9.23,2015,11.1,96
+Tennessee,All Intents Firearm,All Intents,106294432,47,"16,640",15.65,15.36,2015,16,1075
+Tennessee,Violence-related Firearm,Violence-related,106294432,47,"15,858",14.92,14.64,2015,16,1075
+Texas,All Intents Firearm,All Intents,420482291,48,"45,938",10.93,11.05,2015,11.7,3203
+Texas,Violence-related Firearm,Violence-related,420482291,48,"44,694",10.63,10.76,2015,11.7,3203
+Utah,All Intents Firearm,All Intents,45740913,49,"4,862",10.63,11.49,2015,12.8,367
+Utah,Violence-related Firearm,Violence-related,45740913,49,"4,764",10.42,11.27,2015,12.8,367
+Vermont,All Intents Firearm,All Intents,10582731,50,"1,042",9.85,9.27,2015,9.6,70
+Vermont,Violence-related Firearm,Violence-related,10582731,50,"1,020",9.64,9.06,2015,9.6,70
+Virginia,All Intents Firearm,All Intents,134216055,51,"14,759",11,10.73,2015,10.9,946
+Virginia,Violence-related Firearm,Violence-related,134216055,51,"14,433",10.75,10.49,2015,10.9,946
+Washington,All Intents Firearm,All Intents,112924568,53,"10,584",9.37,9.13,2015,9.8,718
+Washington,Violence-related Firearm,Violence-related,112924568,53,"10,384",9.2,8.96,2015,9.8,718
+West Virginia,All Intents Firearm,All Intents,31153644,54,"4,664",14.97,14.41,2015,14,278
+West Virginia,Violence-related Firearm,Violence-related,31153644,54,"4,472",14.35,13.8,2015,14,278
+Wisconsin,All Intents Firearm,All Intents,95820346,55,"8,475",8.84,8.69,2015,10.4,613
+Wisconsin,Violence-related Firearm,Violence-related,95820346,55,"8,313",8.68,8.52,2015,10.4,613
+Wyoming,All Intents Firearm,All Intents,9308806,56,"1,553",16.68,16.52,2015,19.6,113
+Wyoming,Violence-related Firearm,Violence-related,9308806,56,"1,494",16.05,15.9,2015,19.6,113
+Alabama,All Intents Firearm,All Intents,79976290,1,"14,084",17.61,17.42,2014,16.9,815
+Alabama,Violence-related Firearm,Violence-related,79976290,1,"13,420",16.78,16.59,2014,16.9,815
+Alaska,All Intents Firearm,All Intents,11848797,2,"2,277",19.22,19.16,2014,19.2,145
+Alaska,Violence-related Firearm,Violence-related,11848797,2,"2,156",18.2,18.16,2014,19.2,145
+Arizona,All Intents Firearm,All Intents,105943656,4,"16,093",15.19,15.05,2014,13.5,927
+Arizona,Violence-related Firearm,Violence-related,105943656,4,"15,670",14.79,14.65,2014,13.5,927
+Arkansas,All Intents Firearm,All Intents,48788500,5,"7,914",16.22,16.14,2014,16.6,496
+Arkansas,Violence-related Firearm,Violence-related,48788500,5,"7,546",15.47,15.38,2014,16.6,496
+California,All Intents Firearm,All Intents,629704470,6,"54,181",8.6,8.45,2014,7.4,2942
+California,Violence-related Firearm,Violence-related,629704470,6,"53,102",8.43,8.28,2014,7.4,2942
+Colorado,All Intents Firearm,All Intents,84552579,8,"10,088",11.93,11.73,2014,12.2,663
+Colorado,Violence-related Firearm,Violence-related,84552579,8,"9,861",11.66,11.46,2014,12.2,663
+Connecticut,All Intents Firearm,All Intents,60267221,9,"3,089",5.13,5.09,2014,5,187
+Connecticut,Violence-related Firearm,Violence-related,60267221,9,"3,032",5.03,4.99,2014,5,187
+Delaware,All Intents Firearm,All Intents,15043796,10,"1,491",9.91,9.8,2014,11.1,102
+Delaware,Violence-related Firearm,Violence-related,15043796,10,"1,466",9.74,9.63,2014,11.1,102
+Florida,All Intents Firearm,All Intents,317658078,12,"38,341",12.07,11.56,2014,11.5,2410
+Florida,Violence-related Firearm,Violence-related,317658078,12,"37,771",11.89,11.38,2014,11.5,2410
+Georgia,All Intents Firearm,All Intents,161253362,13,"21,404",13.27,13.22,2014,13.7,1391
+Georgia,Violence-related Firearm,Violence-related,161253362,13,"20,842",12.93,12.88,2014,13.7,1391
+Hawaii,All Intents Firearm,All Intents,22827034,15,729,3.19,3.05,2014,2.6,40
+Hawaii,Violence-related Firearm,Violence-related,22827034,15,706,3.09,2.96,2014,2.6,40
+Idaho,All Intents Firearm,All Intents,25938664,16,"3,418",13.18,13.37,2014,13.2,213
+Idaho,Violence-related Firearm,Violence-related,25938664,16,"3,298",12.71,12.9,2014,13.2,213
+Illinois,All Intents Firearm,All Intents,216498318,17,"19,815",9.15,9.04,2014,9,1179
+Illinois,Violence-related Firearm,Violence-related,216498318,17,"19,350",8.94,8.82,2014,9,1179
+Indiana,All Intents Firearm,All Intents,109195622,18,"13,043",11.94,11.87,2014,12.4,818
+Indiana,Violence-related Firearm,Violence-related,109195622,18,"12,631",11.57,11.5,2014,12.4,818
+Iowa,All Intents Firearm,All Intents,51533216,19,"3,735",7.25,7.09,2014,7.5,241
+Iowa,Violence-related Firearm,Violence-related,51533216,19,"3,635",7.05,6.9,2014,7.5,241
+Kansas,All Intents Firearm,All Intents,47932167,20,"5,406",11.28,11.21,2014,11.3,329
+Kansas,Violence-related Firearm,Violence-related,47932167,20,"5,258",10.97,10.91,2014,11.3,329
+Kentucky,All Intents Firearm,All Intents,72900296,21,"10,285",14.11,13.86,2014,13.9,634
+Kentucky,Violence-related Firearm,Violence-related,72900296,21,"9,824",13.48,13.23,2014,13.9,634
+Louisiana,All Intents Firearm,All Intents,77258370,22,"14,899",19.28,19.15,2014,19,896
+Louisiana,Violence-related Firearm,Violence-related,77258370,22,"14,252",18.45,18.32,2014,19,896
+Maine,All Intents Firearm,All Intents,22466633,23,"2,050",9.12,8.42,2014,9.4,133
+Maine,Violence-related Firearm,Violence-related,22466633,23,"2,020",8.99,8.3,2014,9.4,133
+Maryland,All Intents Firearm,All Intents,97635782,24,"10,740",11,10.99,2014,9,546
+Maryland,Violence-related Firearm,Violence-related,97635782,24,"10,631",10.89,10.88,2014,9,546
+Massachusetts,All Intents Firearm,All Intents,111647417,25,"3,822",3.42,3.31,2014,3.2,226
+Massachusetts,Violence-related Firearm,Violence-related,111647417,25,"3,765",3.37,3.26,2014,3.2,226
+Michigan,All Intents Firearm,All Intents,169315037,26,"19,020",11.23,11.24,2014,11.1,1095
+Michigan,Violence-related Firearm,Violence-related,169315037,26,"18,708",11.05,11.06,2014,11.1,1095
+Minnesota,All Intents Firearm,All Intents,89642796,27,"6,320",7.05,6.94,2014,6.6,377
+Minnesota,Violence-related Firearm,Violence-related,89642796,27,"6,172",6.89,6.78,2014,6.6,377
+Mississippi,All Intents Firearm,All Intents,49974477,28,"8,882",17.77,17.89,2014,18.3,547
+Mississippi,Violence-related Firearm,Violence-related,49974477,28,"8,412",16.83,16.96,2014,18.3,547
+Missouri,All Intents Firearm,All Intents,100577707,29,"14,629",14.54,14.43,2014,15.3,943
+Missouri,Violence-related Firearm,Violence-related,100577707,29,"14,187",14.11,13.99,2014,15.3,943
+Montana,All Intents Firearm,All Intents,16625284,30,"2,794",16.81,16.35,2014,16.1,172
+Montana,Violence-related Firearm,Violence-related,16625284,30,"2,698",16.23,15.77,2014,16.1,172
+Nebraska,All Intents Firearm,All Intents,30855239,31,"2,560",8.3,8.26,2014,9.5,179
+Nebraska,Violence-related Firearm,Violence-related,30855239,31,"2,462",7.98,7.94,2014,9.5,179
+Nevada,All Intents Firearm,All Intents,44371328,32,"6,907",15.57,15.44,2014,14.8,429
+Nevada,Violence-related Firearm,Violence-related,44371328,32,"6,774",15.27,15.14,2014,14.8,429
+New Hampshire,All Intents Firearm,All Intents,22260974,33,"1,696",7.62,7.22,2014,8.7,122
+New Hampshire,Violence-related Firearm,Violence-related,22260974,33,"1,657",7.44,7.05,2014,8.7,122
+New Jersey,All Intents Firearm,All Intents,149059055,34,"7,703",5.17,5.22,2014,5.3,468
+New Jersey,Violence-related Firearm,Violence-related,149059055,34,"7,561",5.07,5.12,2014,5.3,468
+New Mexico,All Intents Firearm,All Intents,34045001,35,"5,394",15.84,15.83,2014,16,340
+New Mexico,Violence-related Firearm,Violence-related,34045001,35,"5,238",15.39,15.37,2014,16,340
+New York,All Intents Firearm,All Intents,329978239,36,"16,218",4.91,4.78,2014,4.2,875
+New York,Violence-related Firearm,Violence-related,329978239,36,"15,944",4.83,4.7,2014,4.2,875
+North Carolina,All Intents Firearm,All Intents,158228514,37,"19,988",12.63,12.41,2014,11.8,1206
+North Carolina,Violence-related Firearm,Violence-related,158228514,37,"19,363",12.24,12.02,2014,11.8,1206
+North Dakota,All Intents Firearm,All Intents,11617783,38,"1,161",9.99,9.75,2014,12.3,96
+North Dakota,Violence-related Firearm,Violence-related,11617783,38,"1,114",9.59,9.34,2014,12.3,96
+Ohio,All Intents Firearm,All Intents,195847427,39,"20,157",10.29,10.2,2014,10.3,1211
+Ohio,Violence-related Firearm,Violence-related,195847427,39,"19,689",10.05,9.96,2014,10.3,1211
+Oklahoma,All Intents Firearm,All Intents,62983289,40,"9,506",15.09,15.02,2014,15.7,611
+Oklahoma,Violence-related Firearm,Violence-related,62983289,40,"9,217",14.63,14.56,2014,15.7,611
+Oregon,All Intents Firearm,All Intents,64398526,41,"7,294",11.33,10.81,2014,11.7,497
+Oregon,Violence-related Firearm,Violence-related,64398526,41,"7,129",11.07,10.55,2014,11.7,497
+Pennsylvania,All Intents Firearm,All Intents,214385499,42,"23,349",10.89,10.71,2014,10.5,1390
+Pennsylvania,Violence-related Firearm,Violence-related,214385499,42,"22,786",10.63,10.45,2014,10.5,1390
+Rhode Island,All Intents Firearm,All Intents,18004581,44,757,4.2,4.04,2014,3,34
+Rhode Island,Violence-related Firearm,Violence-related,18004581,44,741,4.12,3.96,2014,3,34
+South Carolina,All Intents Firearm,All Intents,77209351,45,"11,585",15,14.75,2014,15.5,767
+South Carolina,Violence-related Firearm,Violence-related,77209351,45,"11,195",14.5,14.25,2014,15.5,767
+South Dakota,All Intents Firearm,All Intents,13755780,46,"1,341",9.75,9.74,2014,10.3,89
+South Dakota,Violence-related Firearm,Violence-related,13755780,46,"1,273",9.25,9.23,2014,10.3,89
+Tennessee,All Intents Firearm,All Intents,106294432,47,"16,640",15.65,15.36,2014,15.1,1016
+Tennessee,Violence-related Firearm,Violence-related,106294432,47,"15,858",14.92,14.64,2014,15.1,1016
+Texas,All Intents Firearm,All Intents,420482291,48,"45,938",10.93,11.05,2014,10.7,2848
+Texas,Violence-related Firearm,Violence-related,420482291,48,"44,694",10.63,10.76,2014,10.7,2848
+Utah,All Intents Firearm,All Intents,45740913,49,"4,862",10.63,11.49,2014,12.3,337
+Utah,Violence-related Firearm,Violence-related,45740913,49,"4,764",10.42,11.27,2014,12.3,337
+Vermont,All Intents Firearm,All Intents,10582731,50,"1,042",9.85,9.27,2014,10.3,69
+Vermont,Violence-related Firearm,Violence-related,10582731,50,"1,020",9.64,9.06,2014,10.3,69
+Virginia,All Intents Firearm,All Intents,134216055,51,"14,759",11,10.73,2014,10.3,889
+Virginia,Violence-related Firearm,Violence-related,134216055,51,"14,433",10.75,10.49,2014,10.3,889
+Washington,All Intents Firearm,All Intents,112924568,53,"10,584",9.37,9.13,2014,9.7,702
+Washington,Violence-related Firearm,Violence-related,112924568,53,"10,384",9.2,8.96,2014,9.7,702
+West Virginia,All Intents Firearm,All Intents,31153644,54,"4,664",14.97,14.41,2014,14.6,286
+West Virginia,Violence-related Firearm,Violence-related,31153644,54,"4,472",14.35,13.8,2014,14.6,286
+Wisconsin,All Intents Firearm,All Intents,95820346,55,"8,475",8.84,8.69,2014,8.2,487
+Wisconsin,Violence-related Firearm,Violence-related,95820346,55,"8,313",8.68,8.52,2014,8.2,487
+Wyoming,All Intents Firearm,All Intents,9308806,56,"1,553",16.68,16.52,2014,16.2,93
+Wyoming,Violence-related Firearm,Violence-related,9308806,56,"1,494",16.05,15.9,2014,16.2,93
+Alabama,All Intents Firearm,All Intents,79976290,1,"14,084",17.61,17.42,2005,16,736
+Alabama,Violence-related Firearm,Violence-related,79976290,1,"13,420",16.78,16.59,2005,16,736
+Alaska,All Intents Firearm,All Intents,11848797,2,"2,277",19.22,19.16,2005,17.5,116
+Alaska,Violence-related Firearm,Violence-related,11848797,2,"2,156",18.2,18.16,2005,17.5,116
+Arizona,All Intents Firearm,All Intents,105943656,4,"16,093",15.19,15.05,2005,16.1,934
+Arizona,Violence-related Firearm,Violence-related,105943656,4,"15,670",14.79,14.65,2005,16.1,934
+Arkansas,All Intents Firearm,All Intents,48788500,5,"7,914",16.22,16.14,2005,15.7,439
+Arkansas,Violence-related Firearm,Violence-related,48788500,5,"7,546",15.47,15.38,2005,15.7,439
+California,All Intents Firearm,All Intents,629704470,6,"54,181",8.6,8.45,2005,9.5,3453
+California,Violence-related Firearm,Violence-related,629704470,6,"53,102",8.43,8.28,2005,9.5,3453
+Colorado,All Intents Firearm,All Intents,84552579,8,"10,088",11.93,11.73,2005,11.6,535
+Colorado,Violence-related Firearm,Violence-related,84552579,8,"9,861",11.66,11.46,2005,11.6,535
+Connecticut,All Intents Firearm,All Intents,60267221,9,"3,089",5.13,5.09,2005,5.3,187
+Connecticut,Violence-related Firearm,Violence-related,60267221,9,"3,032",5.03,4.99,2005,5.3,187
+Delaware,All Intents Firearm,All Intents,15043796,10,"1,491",9.91,9.8,2005,8.8,75
+Delaware,Violence-related Firearm,Violence-related,15043796,10,"1,466",9.74,9.63,2005,8.8,75
+Florida,All Intents Firearm,All Intents,317658078,12,"38,341",12.07,11.56,2005,10,1838
+Florida,Violence-related Firearm,Violence-related,317658078,12,"37,771",11.89,11.38,2005,10,1838
+Georgia,All Intents Firearm,All Intents,161253362,13,"21,404",13.27,13.22,2005,12.1,1064
+Georgia,Violence-related Firearm,Violence-related,161253362,13,"20,842",12.93,12.88,2005,12.1,1064
+Hawaii,All Intents Firearm,All Intents,22827034,15,729,3.19,3.05,2005,2.1,28
+Hawaii,Violence-related Firearm,Violence-related,22827034,15,706,3.09,2.96,2005,2.1,28
+Idaho,All Intents Firearm,All Intents,25938664,16,"3,418",13.18,13.37,2005,14.1,195
+Idaho,Violence-related Firearm,Violence-related,25938664,16,"3,298",12.71,12.9,2005,14.1,195
+Illinois,All Intents Firearm,All Intents,216498318,17,"19,815",9.15,9.04,2005,8,1019
+Illinois,Violence-related Firearm,Violence-related,216498318,17,"19,350",8.94,8.82,2005,8,1019
+Indiana,All Intents Firearm,All Intents,109195622,18,"13,043",11.94,11.87,2005,11.2,705
+Indiana,Violence-related Firearm,Violence-related,109195622,18,"12,631",11.57,11.5,2005,11.2,705
+Iowa,All Intents Firearm,All Intents,51533216,19,"3,735",7.25,7.09,2005,6.7,201
+Iowa,Violence-related Firearm,Violence-related,51533216,19,"3,635",7.05,6.9,2005,6.7,201
+Kansas,All Intents Firearm,All Intents,47932167,20,"5,406",11.28,11.21,2005,9.3,257
+Kansas,Violence-related Firearm,Violence-related,47932167,20,"5,258",10.97,10.91,2005,9.3,257
+Kentucky,All Intents Firearm,All Intents,72900296,21,"10,285",14.11,13.86,2005,13,548
+Kentucky,Violence-related Firearm,Violence-related,72900296,21,"9,824",13.48,13.23,2005,13,548
+Louisiana,All Intents Firearm,All Intents,77258370,22,"14,899",19.28,19.15,2005,18.5,858
+Louisiana,Violence-related Firearm,Violence-related,77258370,22,"14,252",18.45,18.32,2005,18.5,858
+Maine,All Intents Firearm,All Intents,22466633,23,"2,050",9.12,8.42,2005,7.8,109
+Maine,Violence-related Firearm,Violence-related,22466633,23,"2,020",8.99,8.3,2005,7.8,109
+Maryland,All Intents Firearm,All Intents,97635782,24,"10,740",11,10.99,2005,11.9,657
+Maryland,Violence-related Firearm,Violence-related,97635782,24,"10,631",10.89,10.88,2005,11.9,657
+Massachusetts,All Intents Firearm,All Intents,111647417,25,"3,822",3.42,3.31,2005,3.4,224
+Massachusetts,Violence-related Firearm,Violence-related,111647417,25,"3,765",3.37,3.26,2005,3.4,224
+Michigan,All Intents Firearm,All Intents,169315037,26,"19,020",11.23,11.24,2005,10.8,1074
+Michigan,Violence-related Firearm,Violence-related,169315037,26,"18,708",11.05,11.06,2005,10.8,1074
+Minnesota,All Intents Firearm,All Intents,89642796,27,"6,320",7.05,6.94,2005,7,361
+Minnesota,Violence-related Firearm,Violence-related,89642796,27,"6,172",6.89,6.78,2005,7,361
+Mississippi,All Intents Firearm,All Intents,49974477,28,"8,882",17.77,17.89,2005,16,455
+Mississippi,Violence-related Firearm,Violence-related,49974477,28,"8,412",16.83,16.96,2005,16,455
+Missouri,All Intents Firearm,All Intents,100577707,29,"14,629",14.54,14.43,2005,12.9,752
+Missouri,Violence-related Firearm,Violence-related,100577707,29,"14,187",14.11,13.99,2005,12.9,752
+Montana,All Intents Firearm,All Intents,16625284,30,"2,794",16.81,16.35,2005,16.9,161
+Montana,Violence-related Firearm,Violence-related,16625284,30,"2,698",16.23,15.77,2005,16.9,161
+Nebraska,All Intents Firearm,All Intents,30855239,31,"2,560",8.3,8.26,2005,7.7,135
+Nebraska,Violence-related Firearm,Violence-related,30855239,31,"2,462",7.98,7.94,2005,7.7,135
+Nevada,All Intents Firearm,All Intents,44371328,32,"6,907",15.57,15.44,2005,16.1,390
+Nevada,Violence-related Firearm,Violence-related,44371328,32,"6,774",15.27,15.14,2005,16.1,390
+New Hampshire,All Intents Firearm,All Intents,22260974,33,"1,696",7.62,7.22,2005,6.6,88
+New Hampshire,Violence-related Firearm,Violence-related,22260974,33,"1,657",7.44,7.05,2005,6.6,88
+New Jersey,All Intents Firearm,All Intents,149059055,34,"7,703",5.17,5.22,2005,5.2,434
+New Jersey,Violence-related Firearm,Violence-related,149059055,34,"7,561",5.07,5.12,2005,5.2,434
+New Mexico,All Intents Firearm,All Intents,34045001,35,"5,394",15.84,15.83,2005,13.9,267
+New Mexico,Violence-related Firearm,Violence-related,34045001,35,"5,238",15.39,15.37,2005,13.9,267
+New York,All Intents Firearm,All Intents,329978239,36,"16,218",4.91,4.78,2005,5.3,1019
+New York,Violence-related Firearm,Violence-related,329978239,36,"15,944",4.83,4.7,2005,5.3,1019
+North Carolina,All Intents Firearm,All Intents,158228514,37,"19,988",12.63,12.41,2005,12.8,1119
+North Carolina,Violence-related Firearm,Violence-related,158228514,37,"19,363",12.24,12.02,2005,12.8,1119
+North Dakota,All Intents Firearm,All Intents,11617783,38,"1,161",9.99,9.75,2005,8.8,61
+North Dakota,Violence-related Firearm,Violence-related,11617783,38,"1,114",9.59,9.34,2005,8.8,61
+Ohio,All Intents Firearm,All Intents,195847427,39,"20,157",10.29,10.2,2005,9.6,1116
+Ohio,Violence-related Firearm,Violence-related,195847427,39,"19,689",10.05,9.96,2005,9.6,1116
+Oklahoma,All Intents Firearm,All Intents,62983289,40,"9,506",15.09,15.02,2005,13.2,468
+Oklahoma,Violence-related Firearm,Violence-related,62983289,40,"9,217",14.63,14.56,2005,13.2,468
+Oregon,All Intents Firearm,All Intents,64398526,41,"7,294",11.33,10.81,2005,10.7,402
+Oregon,Violence-related Firearm,Violence-related,64398526,41,"7,129",11.07,10.55,2005,10.7,402
+Pennsylvania,All Intents Firearm,All Intents,214385499,42,"23,349",10.89,10.71,2005,10.8,1352
+Pennsylvania,Violence-related Firearm,Violence-related,214385499,42,"22,786",10.63,10.45,2005,10.8,1352
+Rhode Island,All Intents Firearm,All Intents,18004581,44,757,4.2,4.04,2005,3.6,39
+Rhode Island,Violence-related Firearm,Violence-related,18004581,44,741,4.12,3.96,2005,3.6,39
+South Carolina,All Intents Firearm,All Intents,77209351,45,"11,585",15,14.75,2005,13.8,589
+South Carolina,Violence-related Firearm,Violence-related,77209351,45,"11,195",14.5,14.25,2005,13.8,589
+South Dakota,All Intents Firearm,All Intents,13755780,46,"1,341",9.75,9.74,2005,10.2,82
+South Dakota,Violence-related Firearm,Violence-related,13755780,46,"1,273",9.25,9.23,2005,10.2,82
+Tennessee,All Intents Firearm,All Intents,106294432,47,"16,640",15.65,15.36,2005,16,976
+Tennessee,Violence-related Firearm,Violence-related,106294432,47,"15,858",14.92,14.64,2005,16,976
+Texas,All Intents Firearm,All Intents,420482291,48,"45,938",10.93,11.05,2005,11.1,2490
+Texas,Violence-related Firearm,Violence-related,420482291,48,"44,694",10.63,10.76,2005,11.1,2490
+Utah,All Intents Firearm,All Intents,45740913,49,"4,862",10.63,11.49,2005,10.1,227
+Utah,Violence-related Firearm,Violence-related,45740913,49,"4,764",10.42,11.27,2005,10.1,227
+Vermont,All Intents Firearm,All Intents,10582731,50,"1,042",9.85,9.27,2005,6.8,44
+Vermont,Violence-related Firearm,Violence-related,10582731,50,"1,020",9.64,9.06,2005,6.8,44
+Virginia,All Intents Firearm,All Intents,134216055,51,"14,759",11,10.73,2005,11.5,888
+Virginia,Violence-related Firearm,Violence-related,134216055,51,"14,433",10.75,10.49,2005,11.5,888
+Washington,All Intents Firearm,All Intents,112924568,53,"10,584",9.37,9.13,2005,8.8,567
+Washington,Violence-related Firearm,Violence-related,112924568,53,"10,384",9.2,8.96,2005,8.8,567
+West Virginia,All Intents Firearm,All Intents,31153644,54,"4,664",14.97,14.41,2005,13.8,261
+West Virginia,Violence-related Firearm,Violence-related,31153644,54,"4,472",14.35,13.8,2005,13.8,261
+Wisconsin,All Intents Firearm,All Intents,95820346,55,"8,475",8.84,8.69,2005,8.5,474
+Wisconsin,Violence-related Firearm,Violence-related,95820346,55,"8,313",8.68,8.52,2005,8.5,474
+Wyoming,All Intents Firearm,All Intents,9308806,56,"1,553",16.68,16.52,2005,13.4,71
+Wyoming,Violence-related Firearm,Violence-related,9308806,56,"1,494",16.05,15.9,2005,13.4,71
