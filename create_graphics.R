@@ -89,7 +89,7 @@ stat_model <- final_data %>%
   select(-std.error, -statistic, -p.value) %>%
   unnest(sum_stats) 
   
-
+stat_model
 
 # Scatter Plot
 
