@@ -63,7 +63,7 @@ stat_model <- final_data %>%
 final_data_suicide <- final_data %>% 
   group_by(state_name, year)
 
-final_data %>% 
+suicide_graphi <- final_data %>% 
   group_by(state_name, year) %>% 
   ggplot(aes(x = suicide_rate, y = deaths_year)) +
   geom_point() +
@@ -74,3 +74,9 @@ final_data %>%
     y = "Deaths per Year"
   )
 
+
+# Writing objects out into rds files
+
+write_rds(final_data_suicide, "milestone8_shiny/final_data_s.rds")
+
+write_rds(final_data_map, "milestone8_shiny/final_data_m.rds")

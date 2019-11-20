@@ -41,6 +41,14 @@ ui <- fluidPage(
 # Define server logic required to draw a histogram
 server <- function(input, output) {
 
+    # reading in the rds files
+    
+    final_data_map <- read_rds("milestone8_shiny/final_data_m.rds")
+    
+    final_data_suicide <- read_rds("milestone8_shiny/final_data_s.rds")
+    
+    
+    
     # Creating the map graphic on the home page
     
     output$firearm_plot <- renderPlot(ggplot(data = final_data_map[final_data_map$year == input$year,],
